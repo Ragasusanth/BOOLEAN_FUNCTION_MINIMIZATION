@@ -19,20 +19,21 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 
 *Boolean Expression*
 (i)F1
-![WhatsApp Image 2024-12-21 at 11 58 25_9688a08b](https://github.com/user-attachments/assets/2127cbcc-68f8-43a9-9836-bcb6ae081551)
+![image](https://github.com/user-attachments/assets/3105f968-b821-455a-8377-9451ac013f51)
 
 (ii)F2
-![WhatsApp Image 2024-12-21 at 11 58 44_e0a93405](https://github.com/user-attachments/assets/d7010a77-ceb2-4ff1-bb61-2088ed53eb78)
+![image](https://github.com/user-attachments/assets/0c1331bf-4459-489d-87c0-63c9dcac3717)
+
 *Truth Table*
 
 
 (i)F1
 
-![Screenshot 2024-12-24 112423](https://github.com/user-attachments/assets/bb6c21cc-aa3f-4693-82cc-92d656e48af8)
+![image](https://github.com/user-attachments/assets/8a092861-2260-43b0-9bbd-173838521f3c)
 
 (ii)F2
 
-![Screenshot 2024-12-24 112428](https://github.com/user-attachments/assets/9c30c5aa-a560-4676-bc25-60d49d6314cd)
+![image](https://github.com/user-attachments/assets/4528e7eb-7ef6-45cf-be4a-a6ea477b41db)
 
 *Procedure*
 
@@ -76,11 +77,11 @@ RegisterNumber: 212224230217
 (i)F1
 
 
-![WhatsApp Image 2024-12-24 at 11 31 06_e34debe5](https://github.com/user-attachments/assets/adb50b8e-45b1-4029-8137-fa601f0a86ab)
+![image](https://github.com/user-attachments/assets/3275b325-b554-447e-94de-dda82c65d105)
 
 (ii)F2
 
-![Screenshot 2024-12-27 135405](https://github.com/user-attachments/assets/8c882460-a61e-4acb-b6a5-65319decd230)
+![image](https://github.com/user-attachments/assets/1110d486-74e4-4de7-bef4-67e66d1a0820)
 
 
 *Timing Diagram*
@@ -88,12 +89,11 @@ RegisterNumber: 212224230217
 
 (i)F1
 
-![WhatsApp Image 2024-12-24 at 11 31 18_d5fe2e14](https://github.com/user-attachments/assets/ee4db4d7-ad7c-4c1d-a56f-a67ca595a774)
+![image](https://github.com/user-attachments/assets/5c1c8a45-cd11-4e88-bfe6-9d04a91855e9)
 
 (ii)F2
 
-
-![Screenshot 2024-12-27 135411](https://github.com/user-attachments/assets/5a19da84-edc6-4faa-aa1f-401be7a35dab)
+![image](https://github.com/user-attachments/assets/34f8c7fe-5521-4615-9cb4-faeae70370ed)
 
 
 *Result:*
